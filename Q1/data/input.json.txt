@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Leokadia",
+        "last": "Theil"
+      },
+      "location": {
+        "street": {
+          "number": 7378,
+          "name": "Heideweg"
+        },
+        "city": "Bad Köstritz",
+        "state": "Hessen",
+        "country": "Germany",
+        "postcode": 88406,
+        "coordinates": {
+          "latitude": "-48.4028",
+          "longitude": "59.7102"
+        },
+        "timezone": {
+          "offset": "+2:00",
+          "description": "Kaliningrad, South Africa"
+        }
+      },
+      "email": "leokadia.theil@example.com",
+      "login": {
+        "uuid": "9e98b606-da0c-4aad-8a47-75dded8354a2",
+        "username": "heavyladybug420",
+        "password": "cosmos",
+        "salt": "OaXNQYtP",
+        "md5": "b5f027aab66524f70be6a93df730b481",
+        "sha1": "3bbd2cb1bf4b7b7e61afdfa33c883142a45c68b6",
+        "sha256": "e93076d25710903076737da44c52943aecfb4462e58b5ed6f33cf92c7eea8b78"
+      },
+      "dob": {
+        "date": "1991-07-31T23:40:18.021Z",
+        "age": 32
+      },
+      "registered": {
+        "date": "2019-03-29T21:45:29.836Z",
+        "age": 5
+      },
+      "phone": "0852-3361815",
+      "cell": "0176-9761698",
+      "id": {
+        "name": "SVNR",
+        "value": "18 310791 T 692"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/90.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/90.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/90.jpg"
+      },
+      "nat": "DE"
+    }
+  ],
+  "info": {
+    "seed": "02d541e0b7d567cb",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
